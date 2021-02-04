@@ -1,0 +1,11 @@
+.btn-primary {
+  display: inline-block;
+  height: 70px;
+  background-color: brown;
+  padding: 16px 36px;
+  border-radius: 5px;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  margin-left: 18px;
+}

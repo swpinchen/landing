@@ -1,0 +1,18 @@
+.banner {
+  background-color: #2c2b2b;
+}
+
+.banner h1 {
+  color: white;
+  width: 480px;;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+}
+
+.banner .container {
+   display: flex;
+   align-items: center;
+}
